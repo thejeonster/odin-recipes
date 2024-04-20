@@ -1,0 +1,26 @@
+*{
+    background-color: lightgreen;
+}
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+h1{
+    background-color: paleturquoise;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+}
+h3{
+    background-color: aquamarine;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+}
+.uniqueH3{
+    background-color: orange;
+}
